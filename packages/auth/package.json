@@ -1,6 +1,6 @@
 {
   "name": "auth",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": ["dist"],
@@ -10,7 +10,8 @@
     },
   "license": "MIT",
   "scripts": {
-    "build": "yarn && tsc"
+    "build": "yarn && tsc",
+    "release": "./scripts/release.sh"
   },
   "devDependencies": {
     "@types/node": "^20.11.10",
