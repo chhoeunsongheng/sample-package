@@ -54,7 +54,7 @@ rm -rf dist && done_emoji
 # Run yarn script for building
 echo "STEP 4: Running build script..."
 yarn install
-tsc && done_emoji
+yarn tsc && done_emoji
 
 # Check if the build was successful
 if [ $? -eq 0 ]; then

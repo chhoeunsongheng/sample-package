@@ -1,9 +1,6 @@
 {
   "name": "auth",
-  "version": "1.0.3-beta",
-  "files": [
-    "dist"
-  ],
+  "version": "1.0.7-beta",
   "repository": {
     "type": "git",
     "url": "https://github.com/chhoeunsongheng/sample-package.git"
