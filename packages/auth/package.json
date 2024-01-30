@@ -1,9 +1,12 @@
 {
   "name": "auth",
-  "version": "1.0.1",
-   "repository": {
+  "version": "1.0.3",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "repository": {
         "type": "git",
-        "url": "https://github.com/nopmengkoung/wing-b2c-modules.git"
+        "url": "https://github.com/chhoeunsongheng/sample-package.git"
     },
   "license": "MIT",
   "scripts": {
