@@ -1,7 +1,20 @@
-# Changelog
+# Change Log
 
-## [v1.0.0] - 2024-01-26
+## [1.0.5-beta] - 2024-01-30
 
-### Added
+### Features
 
-_Please list any new features added, or `N/A` if none._
+- mock data for wingcoin
+
+## [1.0.2-beta] - 2024-01-30
+
+### Features
+
+- mock request createPayment
+- mock request createRepayment
+
+## [1.0.1-beta] - 2024-01-29
+
+### Features
+
+- mock request checkPaymentStatus
